@@ -7,5 +7,6 @@ ReactDOM.render(
   <AuthProvider>
     <index />
   </AuthProvider>,
+  
   document.getElementById("root")
 );
